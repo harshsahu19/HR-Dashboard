@@ -4,6 +4,7 @@ Use Excel functions and tools (like Power Query) to clean and preprocess data fo
 Import data from various sources, including HR management systems, payroll systems, employee surveys, and manual entries.
 Charts and Graphs: Utilize bar charts, pie charts, line graphs, and heatmaps to represent data visually.
 Dashboards Sheets: Create multiple sheets for different sections of the dashboard, linked through a main navigation page.
-![image](https://github.com/harshsahu19/HR-Dashboard/assets/149066233/25ea36ff-69c2-4145-9008-61bd473496ba)
 
 
+
+![image](https://github.com/harshsahu19/HR-Dashboard/assets/149066233/5fc59fe9-1d1e-475f-8ab3-8856363b759a)
